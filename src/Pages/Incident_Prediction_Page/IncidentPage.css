@@ -1,0 +1,72 @@
+.Container {
+  background-color: #fbfbfb;
+  height: 100vh;
+}
+.logo_img {
+  width: 15%;
+}
+
+.Container .Heading {
+  font-size: 2.5rem;
+  font-style: Medium;
+  font-weight: 500;
+  line-height: 69px;
+  text-align: center;
+  fill: #ef1b34;
+  color: #ef1b34;
+}
+
+label {
+  font-weight: 600;
+}
+.Container .input_box {
+  background-color: #ffffff;
+  border: 1px solid #eeeeee;
+  box-shadow: 0px 9px 16px rgb(0 0 0 / 6%);
+  border-radius: 18px;
+}
+.Container .input_box .input_input {
+  background-color: #e8ebf1;
+  border-radius: 8px;
+  border: none;
+  padding: 3% 6%;
+  font-size: 1rem;
+  font-weight: 500;
+  outline: none;
+  font-style: normal;
+  letter-spacing: 0.36px;
+  opacity: 0.3;
+  order: 0;
+  line-height: 20px;
+}
+
+.Container .input_box .input_button {
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.101071);
+  background-color: #b5b5be;
+  color: white;
+  font-weight: 500;
+  font-size: 1.3rem;
+}
+.table-main-container {
+  margin-top: 2rem;
+}
+.table-container {
+  width: 95%;
+  margin: auto;
+  padding: 2rem 2rem;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 20px;
+  font-family: "Avenir", sans-serif;
+  font-weight: normal;
+  color: #2d2d2f;
+}
+
+.table-heading {
+  margin-left: 3rem;
+  padding-bottom: 0.5rem;
+  font-family: "Avenir", sans-serif;
+  font-weight: normal;
+  color: #2d2d2f;
+
+}
